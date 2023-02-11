@@ -1,15 +1,15 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-# Algoritmos-YAD109
+# Linguagem de programação - ILP-010 
 
-Repositório da disciplina YAD109 Programação Estruturada e Modular. FATEC-IP.
+Repositório da disciplina ILP-010 Lingugadem de Programação. FATEC São Paulo.
 Disciplina ministrada usando a linguagem C.
 
-Professor: [Carlos Eduardo Menezes](https://www.blogger.com/profile/05414619324946415267)
+Professor: []()
 
 ## Index
 
-- [Algoritmos-YAD109](#algoritmos-yad109)
+- [Linguagem de programação - ILP-010](#linguagem-de-programação---ilp-010)
   - [Index](#index)
   - [Instalando](#instalando)
   - [Executando](#executando)
