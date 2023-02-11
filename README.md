@@ -2,7 +2,7 @@
 
 # Linguagem de programação - ILP-010 
 
-Repositório da disciplina ILP-010 Lingugadem de Programação. FATEC São Paulo.
+Repositório da disciplina ILP-010 Linguagem de Programação. FATEC São Paulo.
 Disciplina ministrada usando a linguagem C.
 
 Professor: []()
