@@ -1,12 +1,12 @@
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+# Linguagem de programação - ILP-010
 
-# Linguagem de programação - ILP-010 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 Repositório da disciplina ILP-010 Linguagem de Programação. FATEC São Paulo.
 
 Disciplina ministrada usando a linguagem C.
 
-Professor: []()
+Professor:
 
 ## Index
 
@@ -15,11 +15,6 @@ Professor: []()
   - [Instalando](#instalando)
   - [Executando](#executando)
   - [Conteúdo](#conteúdo)
-    - [Revisão vetores, matrizes e strings](#revisão-vetores-matrizes-e-strings)
-    - [Recursividade](#recursividade)
-    - [Estruturas](#estruturas)
-    - [Ponteiros e alocação dinâmica](#ponteiros-e-alocação-dinâmica)
-    - [Arquivos](#arquivos)
   - [Links Didáticos](#links-didáticos)
 
 ## Instalando
@@ -36,9 +31,9 @@ Execute `gcc <arquivo.c> -o saida` para compilar o código
 
 Finalmente execute `./saida` para executar o código compilado e seja Feliz :)
 
---- 
-
+---
 Exemplo prático estando na pasta raiz:
+
 ```bash
 cd Arrays/
 gcc alg01.c -o saida
@@ -46,30 +41,14 @@ gcc alg01.c -o saida
 ```
 
 Saida do programa:
-```
+
+```text
 9 5 15 
 6 9 2 
 6 10 6 
 ```
 
-
 ## Conteúdo
-
-### Revisão vetores, matrizes e strings
-- []()
-
-### Recursividade
-- []()
-
-
-### Estruturas
-- []()
-
-### Ponteiros e alocação dinâmica
-- []()
-
-### Arquivos
-- []()
 
 ## Links Didáticos
 
@@ -80,3 +59,5 @@ Saida do programa:
 [Lista de exercícios IME-USP](https://drive.google.com/file/d/1Zyy9MACKkhypQT502B6Ritc9jwLnd0lW/view?usp=sharing)
 
 [Resumo sobre a linguagem C](https://drive.google.com/file/d/1F6M99Q3v5GrqmiGGmfwdTwndtGguLzxF/view?usp=sharing)
+
+[C Handbook article from freecodecamp](https://www.freecodecamp.org/news/the-c-beginners-handbook/#pointers)
