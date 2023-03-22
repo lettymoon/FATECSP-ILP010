@@ -50,7 +50,7 @@ Saida do programa:
 
 ## Conteúdo
 
-- [Introdução: Linguagem C](/fatec/ling-prog1/Introdução)
+- [Introdução: Linguagem C](/ling-prog1/introdução)
 
 ## Links Didáticos
 
