@@ -51,6 +51,7 @@ Saida do programa:
 ## Conteúdo
 
 - [Introdução: Linguagem C](/fatec/ling-prog1/Introdução)
+
 ## Links Didáticos
 
 [Comandos básicos em C](http://albertocn.sytes.net/2010-1/pi/aulas/linguagem_c.htm)
