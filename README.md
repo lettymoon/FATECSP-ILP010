@@ -51,6 +51,7 @@ Saida do programa:
 ## Conteúdo
 
 - [Introdução: Linguagem C](/ling-prog1/introdu%C3%A7%C3%A3o/)
+- [Comandos de Seleção](/ling-prog1/comandos-sele%C3%A7%C3%A3o/)
 
 ## Links Didáticos
 
