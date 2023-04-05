@@ -4,7 +4,7 @@
 
 - Um comando if é chamado encadeado se ele fica na parte falsa de outro if.
 
-![img](/img.png)
+![img](/ling-prog1/comandos-seleção/img.png)
 
 ```text
 Comandos if-else podem ser aninhados e/ou encadeados em qualquer quantidade!
