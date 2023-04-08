@@ -15,6 +15,7 @@ Professor: [Dr. Silvio do Lago Pereira](https://www.ime.usp.br/~slago/index.html
   - [Instalando](#instalando)
   - [Executando](#executando)
   - [Conteúdo](#conteúdo)
+    - [Introdução](#introdução)
   - [Links Didáticos](#links-didáticos)
 
 ## Instalando
@@ -48,8 +49,11 @@ hello world
 
 ## Conteúdo
 
+### Introdução
+
 - [Introdução: Linguagem C](introdução)
 - [Comandos de Seleção](comandos-seleção)
+- [Comandos de Repetição](comandos-repetição)
 
 ## Links Didáticos
 
