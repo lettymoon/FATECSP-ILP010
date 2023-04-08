@@ -6,7 +6,7 @@ Repositório da disciplina ILP-010 Linguagem de Programação. FATEC São Paulo.
 
 Disciplina ministrada usando a linguagem C.
 
-Professor:
+Professor: [Dr. Silvio do Lago Pereira](https://www.ime.usp.br/~slago/index.html)
 
 ## Index
 
@@ -35,23 +35,21 @@ Finalmente execute `./saida` para executar o código compilado e seja Feliz :)
 Exemplo prático estando na pasta raiz:
 
 ```bash
-cd Arrays/
-gcc alg01.c -o saida
+cd introdução/
+gcc test.c -o saida
 ./saida
 ```
 
 Saida do programa:
 
 ```text
-9 5 15 
-6 9 2 
-6 10 6 
+hello world
 ```
 
 ## Conteúdo
 
-- [Introdução: Linguagem C](/ling-prog1/introdu%C3%A7%C3%A3o/)
-- [Comandos de Seleção](/ling-prog1/comandos-sele%C3%A7%C3%A3o/)
+- [Introdução: Linguagem C](/ling-prog1/introdu%C3%A7%C3%A3o)
+- [Comandos de Seleção](/ling-prog1/comandos-sele%C3%A7%C3%A3o)
 
 ## Links Didáticos
 
