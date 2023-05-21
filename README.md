@@ -53,10 +53,10 @@ hello world
 
 ### Introdução
 
-- [Introdução: Linguagem C](/fatec/ling-prog1/1%20-%20introdu%C3%A7%C3%A3o/)
-- [Comandos de Seleção](/fatec/ling-prog1/2%20-%20comandos-sele%C3%A7%C3%A3o/)
-- [Comandos de Repetição](/fatec/ling-prog1/3%20-%20comandos-repeti%C3%A7%C3%A3o/)
-- [Macros e Funções](/fatec/ling-prog1/4%20-%20macros-funcoes/)
+- [Introdução: Linguagem C](01-introducao)
+- [Comandos de Seleção](02-comandos-selecao)
+- [Comandos de Repetição](03-comandos-repeticao)
+- [Macros e Funções](04-macros-funcoes)
 - [Vetores e Matrizes]
 - [Ordenação e Busca]
 - [Strings]
