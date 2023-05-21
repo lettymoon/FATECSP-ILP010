@@ -1,0 +1,1 @@
+#define DIGA printf("Oi!\n")
