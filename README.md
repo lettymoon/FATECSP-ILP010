@@ -38,7 +38,7 @@ Finalmente execute `./saida` para executar o código compilado e seja Feliz :)
 Exemplo prático estando na pasta raiz:
 
 ```bash
-cd introdução/
+cd 1-introdução/
 gcc test.c -o saida
 ./saida
 ```
@@ -53,9 +53,18 @@ hello world
 
 ### Introdução
 
-- [Introdução: Linguagem C](introdução)
-- [Comandos de Seleção](comandos-seleção)
-- [Comandos de Repetição](comandos-repetição)
+- [Introdução: Linguagem C](/fatec/ling-prog1/1%20-%20introdu%C3%A7%C3%A3o/)
+- [Comandos de Seleção](/fatec/ling-prog1/2%20-%20comandos-sele%C3%A7%C3%A3o/)
+- [Comandos de Repetição](/fatec/ling-prog1/3%20-%20comandos-repeti%C3%A7%C3%A3o/)
+- [Macros e Funções](/fatec/ling-prog1/4%20-%20macros-funcoes/)
+- [Vetores e Matrizes]
+- [Ordenação e Busca]
+- [Strings]
+- [Estruturas]
+- [Ponteiros]
+- [Alocação dinâmica de memória]
+- [Argumentos da linha de comandos]
+- [Arquivos em modo de texto e binário]
 
 ## Links Didáticos
 
