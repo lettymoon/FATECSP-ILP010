@@ -6,6 +6,8 @@ Repositório da disciplina ILP-010 Linguagem de Programação. FATEC São Paulo.
 
 Disciplina ministrada usando a linguagem C.
 
+Material utilizado nas aulas: [Material](https://www.ime.usp.br/~slago/main.fatecsp.lp.html)
+
 Professor: [Dr. Silvio do Lago Pereira](https://www.ime.usp.br/~slago/index.html)
 
 ## Index
