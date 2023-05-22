@@ -17,7 +17,7 @@ Professor: [Dr. Silvio do Lago Pereira](https://www.ime.usp.br/~slago/index.html
   - [Instalando](#instalando)
   - [Executando](#executando)
   - [Conteúdo](#conteúdo)
-    - [Introdução](#introdução)
+    - [Aulas](#aulas)
   - [Links Didáticos](#links-didáticos)
 
 ## Instalando
@@ -51,13 +51,13 @@ hello world
 
 ## Conteúdo
 
-### Introdução
+### Aulas
 
 - [Introdução: Linguagem C](01-introducao)
 - [Comandos de Seleção](02-comandos-selecao)
 - [Comandos de Repetição](03-comandos-repeticao)
 - [Macros e Funções](04-macros-funcoes)
-- [Funções recursivas](05-funcoes-recursivas)
+- [Funções Recursivas](05-funcoes-recursivas)
 - [Vetores e Matrizes]
 - [Ordenação e Busca]
 - [Strings]
