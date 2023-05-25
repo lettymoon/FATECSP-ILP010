@@ -58,7 +58,7 @@ hello world
 - [Comandos de Repetição](03-comandos-repeticao)
 - [Macros e Funções](04-macros-funcoes)
 - [Funções Recursivas](05-funcoes-recursivas)
-- [Vetores e Matrizes]
+- [Vetores e Matrizes](06-vetores-matrizes)
 - [Ordenação e Busca]
 - [Strings]
 - [Estruturas]
