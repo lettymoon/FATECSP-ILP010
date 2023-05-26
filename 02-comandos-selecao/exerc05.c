@@ -8,13 +8,12 @@ int main(void){
     printf("Números? ");
     scanf("%d %d", &n1, &n2);
 
-    int maior = 0,
+    int maior = 0;
 
-    if(n1 > maior){
+    if(n1 > maior)
         maior = n1;
-    }if(maior < n2){
+    if(maior < n2)
         maior = n2;
-    }
 
     printf("Maior número é: %d\n", maior);
 
