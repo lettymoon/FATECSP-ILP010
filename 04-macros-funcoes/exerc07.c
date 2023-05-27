@@ -1,7 +1,7 @@
 /*O quadrado de um número natural n é igual à soma dos n primeiros ímpares consecutivos. 
 Com base nessa ideia, crie uma função que devolve o quadrado de um número natural n, dado como entrada.
 
-Por exemplo: 52 = 1 + 3 + 5 + 7 + 9 = 25
+Por exemplo: 5² = 1 + 3 + 5 + 7 + 9 = 25
 */
 
 
