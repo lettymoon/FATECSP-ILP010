@@ -59,7 +59,7 @@ hello world
 - [Macros e Funções](04-macros-funcoes)
 - [Funções Recursivas](05-funcoes-recursivas)
 - [Vetores e Matrizes](06-vetores-matrizes)
-- [Ordenação e Busca]
+- [Ordenação e Busca](07-ordenacao-busca)
 - [Strings]
 - [Estruturas]
 - [Ponteiros]
