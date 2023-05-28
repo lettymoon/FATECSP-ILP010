@@ -1,4 +1,5 @@
-/*O programa a seguir deve ler as temperaturas registradas diariamente, durante uma se-
+/* Exerecício 02:
+O programa a seguir deve ler as temperaturas registradas diariamente, durante uma se-
 mana, e informar em quantos dias a temperatura esteve acima da média para o referido
 período. Crie as funções necessárias para a correta execução desse programa.
 */

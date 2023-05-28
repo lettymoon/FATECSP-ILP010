@@ -1,4 +1,5 @@
-/*Crie a função histograma(), que exibe um gráfico com a variação de temperatura
+/*Exercício 03:
+Crie a função histograma(), que exibe um gráfico com a variação de temperatura
 ao longo da semana. Nesse gráfico, cada barra deve ser composta por n caracteres
 ASCII 220 (sendo n a temperatura correspondente). Ademais, a cor de cada barra deve
 indicar se a temperatura é igual à media (verde), menor (azul) ou maior (vermelho).

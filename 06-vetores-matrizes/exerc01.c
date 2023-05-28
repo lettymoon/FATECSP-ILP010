@@ -1,3 +1,5 @@
+// Exercício 01
+// Crie a função binario(n), que exibe um número natural n em binário.
 
 
 #include <stdio.h>
