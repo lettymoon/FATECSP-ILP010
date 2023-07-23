@@ -6,6 +6,8 @@ que maiúsculas e minúsculas correspondentes são distintas. Usando essa funç�
 teste o programa do exercício anterior.
 */
 
+//INCOMPLETO
+
 #include <stdio.h>
 #include <string.h>
 
