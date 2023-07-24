@@ -60,12 +60,12 @@ hello world
 - [Funções Recursivas](05-funcoes-recursivas)
 - [Vetores e Matrizes](06-vetores-matrizes)
 - [Ordenação e Busca](07-ordenacao-busca)
-- [Strings]
-- [Estruturas]
-- [Ponteiros]
-- [Alocação dinâmica de memória]
-- [Argumentos da linha de comandos]
-- [Arquivos em modo de texto e binário]
+- [Strings](08-strings)
+- [Estruturas](09-estruturas)
+- [Ponteiros](10-ponteiros)
+- [Alocação dinâmica de memória](11-alocacao-dinamica)
+- [Argumentos da linha de comandos](12-linha-comando)
+- [Arquivos em modo de texto e binário](13-arquivos-texto-binario)
 
 ## Links Didáticos
 
