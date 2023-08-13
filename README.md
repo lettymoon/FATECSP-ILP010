@@ -1,8 +1,8 @@
-# Linguagem de programação - ILP-010
+# Linguagem de programação - ILP010A
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-Repositório da disciplina ILP-010 Linguagem de Programação. FATEC São Paulo.
+Repositório da disciplina ILP-010 Linguagem de Programação. FATEC São Paulo. 01/2023
 
 Disciplina ministrada usando a linguagem C.
 
@@ -12,7 +12,7 @@ Professor: [Dr. Silvio do Lago Pereira](https://www.ime.usp.br/~slago/index.html
 
 ## Index
 
-- [Linguagem de programação - ILP-010](#linguagem-de-programação---ilp-010)
+- [Linguagem de programação - ILP010A](#linguagem-de-programação---ilp010a)
   - [Index](#index)
   - [Instalando](#instalando)
   - [Executando](#executando)
