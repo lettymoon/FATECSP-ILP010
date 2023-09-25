@@ -69,12 +69,10 @@ hello world
 
 ## Links Didáticos
 
-[Comandos básicos em C](http://albertocn.sytes.net/2010-1/pi/aulas/linguagem_c.htm)
-
-[GDB Compilador de C Online](https://www.onlinegdb.com/)
-
-[Lista de exercícios IME-USP](https://drive.google.com/file/d/1Zyy9MACKkhypQT502B6Ritc9jwLnd0lW/view?usp=sharing)
-
-[Resumo sobre a linguagem C](https://drive.google.com/file/d/1F6M99Q3v5GrqmiGGmfwdTwndtGguLzxF/view?usp=sharing)
-
-[C Handbook article from freecodecamp](https://www.freecodecamp.org/news/the-c-beginners-handbook/#pointers)
+- [Comandos básicos em C](http://albertocn.sytes.net/2010-1/pi/aulas/linguagem_c.htm)
+- [GDB Compilador de C Online](https://www.onlinegdb.com/)
+- [Lista de exercícios IME-USP](https://drive.google.com/file/d/1Zyy9MACKkhypQT502B6Ritc9jwLnd0lW/view?usp=sharing)
+- [Resumo sobre a linguagem C](https://drive.google.com/file/d/1F6M99Q3v5GrqmiGGmfwdTwndtGguLzxF/view?usp=sharing)
+- [C Handbook article from freecodecamp](https://www.freecodecamp.org/news/the-c-beginners-handbook/#pointers)
+- [HackerRank - Algorithms](https://www.hackerrank.com/domains/algorithms)
+- [beecrowd - problems](https://www.beecrowd.com.br/judge/pt/categories)
